@@ -18,17 +18,11 @@ and the system can compute the shortest path between any two users.
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend:**
 - HTML, CSS, JavaScript
 - Leaflet.js (map rendering)
 - Socket.io-client
-
-**Backend:**
 - Node.js
 - Express.js
 - Socket.io
-
-**Other:**
 - EJS (templating)
 - OpenStreetMap (tiles)
